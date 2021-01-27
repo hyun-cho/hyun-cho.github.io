@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+socialImage: "/nhn.png"
 ---
 
 ## Blog by HyunCho
