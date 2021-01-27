@@ -3,22 +3,22 @@
 <url> <loc>https://hyun-cho.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/Template</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hyun-cho.github.io/posts/회고록/블로그를 생성하다</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/회고록/NHN 베이스캠프 1주차</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hyun-cho.github.io/posts/blog/blog/Gatsby와-Github-Pages를-활용한-블로그-배포</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hyun-cho.github.io/posts/회고록/블로그를 생성하다</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/blog/삽질/JPA test auto increment 문제</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/JPA와 MyBatis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/Spring Boot 어노테이션 이해하기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part4/M:N 관계의 설계와 구현</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hyun-cho.github.io/posts/blog/blog/Gatsby와-Github-Pages를-활용한-블로그-배포</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part4/파일 업로드 처리</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part4/양방향과 OneToMany</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part4/M:N 관계의 설계와 구현</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part2/방명록 구현하기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part1/Maria 데이터베이스와 Spinrg Data SPA</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part1/스프링 MVC와 Thymeleaf</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part1/스프링 부트 프로젝트 준비하기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part1/스프링 MVC와 Thymeleaf</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/posts/TIL/Javascript/Javascript개요</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://hyun-cho.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hyun-cho.github.io/posts/TIL/Spring Boot/코드로-배우는-스프링부트/part4/양방향과 OneToMany</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hyun-cho.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/tag/basecamp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/tag/ecm-ascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hyun-cho.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
