@@ -19,7 +19,7 @@ description: "코드로 배우는 스프링부트 part1/chapter2 Maria 데이터
 ## Maira DB?
 
 MySQL과 거의 유사하지만 완전한 오픈소스
-[MariaDB docker에 설치하기](./../../TIL/Database/MariaDB%20docker에%20설치하기.md)
+[MariaDB docker에 설치하기](./../../../Database/MariaDB%20docker에%20설치하기.md)
 
 ## DB를 위한 스프링 부트 설정
 
